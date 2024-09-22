@@ -1,3 +1,21 @@
+## v1.6.0 (2024-09-22)
+
+### Feat
+
+- Add support for file url scheme (#183)
+
+## v1.5.2 (2024-09-22)
+
+### Fix
+
+- Ignore unused link length (#182)
+
+## v1.5.1 (2024-09-22)
+
+### Fix
+
+- Demote problems to debug logging (#180)
+
 ## v1.5.0 (2024-08-17)
 
 ### Feat
